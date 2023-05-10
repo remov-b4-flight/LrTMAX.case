@@ -1,2 +1,4 @@
 # Output files for manufacturing
 *.stl
+*.fcstd1
+*.FCStd1
